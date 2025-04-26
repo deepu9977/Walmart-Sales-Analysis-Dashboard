@@ -2,6 +2,9 @@
 
 This project is a Power BI dashboard built to analyze sales data for Walmart. The goal is to uncover meaningful insights regarding sales trends, customer demographics, and operational performance across different branches and cities.
 
+
+<img width="610" alt="Dashboard_Walmart" src="https://github.com/user-attachments/assets/b91c7ce7-025a-47dc-b082-a075f456b539" />
+
 ## 📂 Project Files
 - `Walmart.pbix` — Power BI report file containing the dashboard.
 - `Walmart.xlsx` — Dataset used for analysis.
